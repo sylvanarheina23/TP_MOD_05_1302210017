@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\TP_MOD5_1302210017\\TP_MOD_05_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\tpmodul5_1302210017\\TP_MOD_05_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017.csproj",
       "projectName": "TP_MOD5_1302210017",
-      "projectPath": "C:\\Users\\Asus\\Documents\\TP_MOD5_1302210017\\TP_MOD_05_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017.csproj",
+      "projectPath": "C:\\Users\\Asus\\Documents\\tpmodul5_1302210017\\TP_MOD_05_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\TP_MOD5_1302210017\\TP_MOD_05_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\tpmodul5_1302210017\\TP_MOD_05_1302210017\\TP_MOD5_1302210017\\TP_MOD5_1302210017\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
